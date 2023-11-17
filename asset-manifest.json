@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-material-ui/static/css/main.170bb3ef.css",
+    "main.js": "/react-material-ui/static/js/main.60d4c959.js",
+    "index.html": "/react-material-ui/index.html",
+    "main.170bb3ef.css.map": "/react-material-ui/static/css/main.170bb3ef.css.map",
+    "main.60d4c959.js.map": "/react-material-ui/static/js/main.60d4c959.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.170bb3ef.css",
+    "static/js/main.60d4c959.js"
+  ]
+}
