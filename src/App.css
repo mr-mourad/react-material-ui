@@ -1,0 +1,13 @@
+.loginWrap{
+  min-height: 400px;
+  padding-top: 40px;
+}
+
+.formHeader{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  margin-bottom: 20px;
+
+}
